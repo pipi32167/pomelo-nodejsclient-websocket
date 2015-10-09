@@ -1,0 +1,9 @@
+bower_components/
+node_modules/
+*~
+*.log
+^.
+*.DS_Store
+Vagrantfile
+.vagrant/
+out/

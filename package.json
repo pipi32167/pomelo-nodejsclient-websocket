@@ -1,0 +1,17 @@
+{
+  "name": "pomelo-nodejsclient-websocket",
+  "version": "0.0.2",
+  "description": "",
+  "main": "./lib/pomelo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "pomelo-protobuf": "^0.4.0",
+    "pomelo-protocol": "^0.1.6",
+    "underscore": "^1.8.3",
+    "ws": "^0.8.0"
+  }
+}
